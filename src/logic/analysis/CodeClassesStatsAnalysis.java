@@ -31,7 +31,7 @@ public class CodeClassesStatsAnalysis
 	
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 	
-		
+	//creates new report class	
 	public static ReportClassCodeStats createReportClassCodeStats()
 	{
 		ReportClassCodeStats rep = new ReportClassCodeStats();
